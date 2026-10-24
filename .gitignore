@@ -3,3 +3,4 @@ data/clean/
 venv/
 __pycache__/
 .DS_Store
+data_snapshot_final/
